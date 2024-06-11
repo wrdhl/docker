@@ -8,7 +8,7 @@ The [full image description on Docker Hub](https://hub.docker.com/_/docker/) is 
 
 ## See a change merged here that doesn't show up on Docker Hub yet?
 
-For more information about the full official images change lifecycle, see [the "An image's source changed in Git, now what?" FAQ entry](https://github.com/docker-library/faq#an-images-source-changed-in-git-now-what).
+For  more information about the full official images change lifecycle, see [the "An image's source changed in Git, now what?" FAQ entry](https://github.com/docker-library/faq#an-images-source-changed-in-git-now-what).
 
 For outstanding `docker` image PRs, check [PRs with the "library/docker" label on the official-images repository](https://github.com/docker-library/official-images/labels/library%2Fdocker). For the current "source of truth" for [`docker`](https://hub.docker.com/_/docker/), see [the `library/docker` file in the official-images repository](https://github.com/docker-library/official-images/blob/master/library/docker).
 
